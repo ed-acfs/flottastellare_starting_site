@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Chi Siamo" 
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, abbiamo una minor faction in gioco e abbiamo i biscotti
 sitemap:
     priority: 0.7
     lastmod: 2019-04-08
