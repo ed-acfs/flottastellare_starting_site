@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Alto Comando Flotta Stellare
 
-L'alto Comando Flotta Stellare (**ACFS**)  è lo squadrone che riunisce al suo interno giocatori indipendenti sparsi per la galassia garantendo loro una casa lontano da casa; per questa ragione l'ingresso è libero e garantito a tutti, basta fare richiesta, in modo da rendere meno solitaria la vastità della galassia di Elite Dangerous. 
+L'Alto Comando Flotta Stellare (**ACFS**)  è lo squadrone che riunisce al suo interno giocatori indipendenti sparsi per la galassia garantendo loro una casa lontano da casa; per questa ragione l'ingresso è libero e garantito a tutti, basta fare richiesta, in modo da rendere meno solitaria la vastità della galassia di Elite Dangerous. 
 
 ## Cosa facciamo
 
@@ -26,7 +26,7 @@ Soprattutto cerchiamo di divertirci insieme, condividendo ogni giorno le nostre 
 
 ## BGS (Background Simulation)
 
-Ci siamo stabiliti nel sistema [Wong Sher](https://inara.cz/galaxy-starsystem/12424/), home system della nostra minor faction **Flotta Stellare**.<br>
+Ci siamo stabiliti nel sistema [**Wong Sher**](https://inara.cz/galaxy-starsystem/12424/), home system della nostra minor faction **Flotta Stellare**.<br>
 Avere un posto da chiamare *casa* è per noi essenziale e ci da un grande senso di appartenenza ed aiuta il gruppo.
 
 ## Come svolgiamo le attività:
@@ -34,7 +34,7 @@ La nostra fazione va continuamente sostenuta svolgendo missioni e attività per 
 L’unica regola è quella di giocare il più possibile in modalità **“open”**.
 
 ## Come unirsi a noi
-Come già scritto sopra non esistono requisiti per accedere al nostro squadrone, attivo solo su Ps4.<br>
+Come già scritto sopra non esistono requisiti per accedere al nostro squadrone, attivo attualmente solo su **PS4**.<br>
 Per qualsiasi domanda potete chiedere al nostro ammiraglio Scorpion01924 o entrare nel nostro [canale discord](https://discord.gg/mXpfjgd).
 
 <div class="box">
@@ -43,3 +43,5 @@ Per qualsiasi domanda potete chiedere al nostro ammiraglio Scorpion01924 o entra
 
 Ex Astris, Scientia <br>
 Ubi non est tempus ludere electi
+
+_(e, ricorda... noi abbiamo i biscotti!)_
