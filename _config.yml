@@ -9,7 +9,7 @@ description:        "Alto Comando Flotta Stellare è uno Squadrone che opera all
 keywords:           elite dangerous, squadrone, squadron, ps4, flotta stellare, github, github pages
 locale:             it_IT
 baseurl: "" 
-url: "" 
+url: https://flottastellare.it
 
 #
 ###################################
