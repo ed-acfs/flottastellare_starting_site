@@ -1,10 +1,16 @@
 <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
-<title>{{ page.title }}</title>
-<meta name="description" content="{{ page.description }}">
+<meta name="robots" content="index,follow" />
 
-{% seo %} 
+<!-- Add to homescreen for Chrome on Android -->
+<meta name="mobile-web-app-capable" content="yes">
+
+<!-- Add to homescreen for Safari on iOS -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="{{ site.name }}">
 
 <link rel="apple-touch-icon" sizes="57x57" href="{{ "/assets/icon/apple-icon-57x57.png" | prepend:site.baseurl }}">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ "/assets/icon/apple-icon-60x60.png" | prepend:site.baseurl }}">
@@ -23,6 +29,8 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/assets/icon/ms-icon-144x144.png" | prepend:site.baseurl }}">
 <meta name="theme-color" content="#ffffff">
+
+{% seo %} 
 
 <!-- CSS -->
 <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend:site.baseurl }}" />
