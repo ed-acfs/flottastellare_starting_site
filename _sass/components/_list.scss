@@ -65,6 +65,17 @@
 						font-size: 1.25rem;
 					}
 				}
+				.fa {
+					&:before {
+						width: 2.25rem;
+						height: 2.25rem;
+						line-height: 2.25rem;
+						display: inline-block;
+						text-align: center;
+						border-radius: 100%;
+						font-size: 1.25rem;
+					}
+				}
 			}
 
 			&.alt {
