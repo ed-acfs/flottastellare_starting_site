@@ -4,41 +4,43 @@ title: "Chi Siamo"
 description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2019-04-08
     changefreq: weekly
 ---
 ## Alto Comando Flotta Stellare
 
-L'alto Comando Flotta Stellare (**ACFS**) è uno squadrone attivo su **PS4**, che riunisce al suo interno giocatori a cui piace crescere e divertirsi insieme.
+L'alto Comando Flotta Stellare (**ACFS**)  è lo squadrone che riunisce al suo interno giocatori indipendenti sparsi per la galassia garantendo loro una casa lontano da casa; per questa ragione l'ingresso è libero e garantito a tutti, basta fare richiesta, in modo da rendere meno solitaria la vastità della galassia di Elite Dangerous. 
 
-Offriamo supporto attivo a tutti i nuovi piloti che si affacciano alla maestosa galassia di Élite, il nostro principale obiettivo è godersi il gioco. 
+## Cosa facciamo
 
-## Le nostre attività in gioco
-
-Svolgiamo tutte le attività che **Elite Dangerous** ha da offrire: 
+Le nostre attività ed interessi sono rivolte a tutte le opportunità che l'universo di **Elite: Dangerous** ha da offrire:
 - Mining
 - Commercio 
 - Bounty hunting 
 - Esplorazione
 - Xeno ricerca 
-- Xeno hunting e altro ancora! 
-
-Inoltre organizziamo piccoli campionati CQC, corse attraverso i canyon e rally con i nostri amati SRV!
+- Xeno hunting
+  
+Inoltre organizziamo piccoli campionati CQC, corse attraverso i canyon e rally con i nostri amati SRV!<br>
+Soprattutto cerchiamo di divertirci insieme, condividendo ogni giorno le nostre esperienze e conoscenze. 
 
 ## BGS (Background Simulation)
 
-Ci siamo stabiliti nel sistema [Wong Sher](https://inara.cz/galaxy-starsystem/12424/), home system della nostra minor faction **Flotta Stellare** che deve essere sostenuta e organizzata.
+Ci siamo stabiliti nel sistema [Wong Sher](https://inara.cz/galaxy-starsystem/12424/), home system della nostra minor faction **Flotta Stellare**.<br>
+Avere un posto da chiamare *casa* è per noi essenziale e ci da un grande senso di appartenenza ed aiuta il gruppo.
 
-Da parte del sottoscritto CMDR Scorpion01924 ammiraglio dello squadrone vi aspetto!
-Fly Save Commanders! o7
+## Come svolgiamo le attività:
+La nostra fazione va continuamente sostenuta svolgendo missioni e attività per essa.
+L’unica regola è quella di giocare il più possibile in modalità **“open”**.
 
-### Content is Imortant
+## Come unirsi a noi
+Come già scritto sopra non esistono requisiti per accedere al nostro squadrone, attivo solo su Ps4.<br>
+Per qualsiasi domanda potete chiedere al nostro ammiraglio Scorpion01924 o entrare nel nostro canale discord.
+
 <div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
+  <a href="https://discord.gg/mXpfjgd"  class="image fit"><img src="{{ "/images/Discord-Logo+Wordmark-Black.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Discord Server" /></a>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | prepend:site.baseurl }}" alt="" /></span>
+Ex Astris, Scientia <br>
+Ubi non est tempus ludere electi
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
