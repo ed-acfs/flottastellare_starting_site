@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BGS - Background Simulation
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+description: Cosa è la Background Simulation (BGS) Di Elite Dangerous e come far si che la propria fazione si possa espndare all'interno del mondo di gioco
 sitemap:
     priority: 0.7
     lastmod: 2019-04-09

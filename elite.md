@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Il Gioco - Cosa è Elite Dangerous
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+description: Cosa è Elite Dangerous? Scopriamo insieme la storia del più famoso videogioco di simulazione spaziale di sempre.
 sitemap:
     priority: 0.7
     lastmod: 2019-04-05
