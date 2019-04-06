@@ -35,13 +35,13 @@ L’unica regola è quella di giocare il più possibile in modalità **“open�
 
 ## Come unirsi a noi
 Come già scritto sopra non esistono requisiti per accedere al nostro squadrone, attivo attualmente solo su **PS4**.<br>
-Per qualsiasi domanda potete chiedere al nostro ammiraglio Scorpion01924 o entrare nel nostro [canale discord](https://discord.gg/mXpfjgd).
+Per qualsiasi domanda potete chiedere al nostro ammiraglio [Scorpion01924](https://my.playstation.com/profile/Scorpion01924), entrare nel nostro [canale discord](https://discord.gg/mXpfjgd) o sulla nostra [pagina FaceBook](https://www.facebook.com/Altocomandoflottastellare/).
 
 <div class="box">
   <a href="https://discord.gg/mXpfjgd"  class="image fit"><img src="{{ "/images/Discord-Logo+Wordmark-Color.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Discord Server" /></a>
 </div>
 
-Ex Astris, Scientia <br>
-Ubi non est tempus ludere electi
+*Ex Astris, Scientia <br>
+Ubi non est tempus ludere electi*
 
-_(e, ricorda... noi abbiamo i biscotti!)_
+(e, ricorda... noi abbiamo i biscotti!)
