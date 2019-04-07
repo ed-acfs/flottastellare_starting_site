@@ -33,7 +33,7 @@ Avere un posto da chiamare *casa* è per noi essenziale e ci da un grande senso 
 La nostra fazione va continuamente sostenuta svolgendo missioni e attività per essa.
 L’unica regola è quella di giocare il più possibile in modalità **“open”**.
 
-## Come unirsi a noi
+## Come unirsi alla Flotta Stellare
 Come già scritto sopra non esistono requisiti per accedere al nostro squadrone, attivo attualmente solo su **PS4**.<br>
 Per qualsiasi domanda potete chiedere al nostro ammiraglio [Scorpion01924](https://my.playstation.com/profile/Scorpion01924), entrare nel nostro [canale discord](https://discord.gg/mXpfjgd) o sulla nostra [pagina FaceBook](https://www.facebook.com/Altocomandoflottastellare/).
 
