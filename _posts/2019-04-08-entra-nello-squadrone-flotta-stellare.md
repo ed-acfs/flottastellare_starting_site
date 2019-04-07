@@ -2,7 +2,7 @@
 layout: post
 title:  "Come entrare a far parte dello Squadrone"
 date:   2019-04-06
-excerpt: "Vuoi entrare nello Squadrone Alto Comando Flotta Stellare e divertirti insieme a noi? E' molto più semplice di quanto pensi. E serve sostenere prove."
+excerpt: "Vuoi entrare nello Squadrone Alto Comando Flotta Stellare e divertirti insieme a noi? E' molto più semplice di quanto pensi. E non devi sostenere prove."
 image: "/images/pic02.jpg"
 ---
 

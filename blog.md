@@ -1,9 +1,9 @@
 ---
 layout: blog
 title: Blog
-description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+description: Segui il nostro blog per restare informato sulle attività dello Squadrone, per aggiornarti con le guide pubblicate e per conoscere gli eventi nella Galassia.
 sitemap:
     priority: 1.0
-    lastmod: 2017-11-02
+    lastmod: 2019-04-08
     changefreq: weekly
 ---
