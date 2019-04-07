@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+title:  "Come entrare a far parte dello Squadrone"
+date:   2019-04-06
+excerpt: "Vuoi entrare nello Squadrone Alto Comando Flotta Stellare e divertirti insieme a noi? E' molto più semplice di quanto pensi. E serve sostenere prove."
 image: "/images/pic02.jpg"
 ---
 
