@@ -31,6 +31,7 @@ twitter:            Flotta_Stellare
 facebook:           Altocomandoflottastellare
 instagram:          cmdr_o7
 github:             ed-acfs
+logo:               /assets/images/logo_1024x575.png
 
 # personal
 location:           Wong Sher
@@ -50,6 +51,7 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     author:
+    image: /assets/images/logo_1024x575.png
 
 #
 ###################################
