@@ -37,10 +37,11 @@ L’unica regola è quella di giocare il più possibile in modalità **“open�
 Come già scritto sopra non esistono requisiti per accedere al nostro squadrone, attivo attualmente solo su **PS4**.<br>
 Per qualsiasi domanda potete chiedere al nostro ammiraglio [Scorpion01924](https://my.playstation.com/profile/Scorpion01924), entrare nel nostro [canale discord](https://discord.gg/mXpfjgd) o sulla nostra [pagina FaceBook](https://www.facebook.com/Altocomandoflottastellare/).
 
-<div class="box">
+<div class="box alt">
     <div class="row 50% uniform">
-        <div class="6u"><span class="image fit"><a href="https://discord.gg/mXpfjgd" class="image fit"><img src="{{ "/images/Discord-Logo+Wordmark-Color.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Discord Server" /></a></span></div>
-        <div class="5u"><span class="image fit"><a href="https://facebook.com/{{site.facebook}}" class="image fit"><img src="{{ "/images/new-facebook-logo-2015-400x400_1.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Pagina FaceBook" /></a></span></div>
+        <div class="4u"><span class="image fit"><a href="https://discord.gg/mXpfjgd" class="image fit"><img src="{{ "/images/Discord-Logo+Wordmark-Color.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Discord Server" /></a></span></div>
+        <div class="4u"><span class="image fit"><a href="https://facebook.com/{{site.facebook}}" class="image fit"><img src="{{ "/images/new-facebook-logo.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Pagina FaceBook" /></a></span></div>
+        <div class="4u$"><span class="image fit"><a href="https://inara.cz/squadron/4750/" class="image fit"><img src="{{ "/images/inara.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Inara" /></a></span></div>
     </div>
 </div>
 
